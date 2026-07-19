@@ -512,7 +512,7 @@ when shared state or reduced copying is desirable.
 - [[Struct]]
 - [[Methods]]
 - [[Method Receivers]]
-- [[Composition]]
+- [[Why go prefers Composition over Inheritance]]
 - [[Interfaces]]
 - [[Pointers]]
 - [[Memory Layout]]
